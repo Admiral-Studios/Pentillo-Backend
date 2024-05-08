@@ -8,8 +8,8 @@ SaaS Website for real estate transactions management, including members invitati
 
 ## Technology Stack
 
-Nest.js - enterprise-level Node.js framework
-Prisma - Next-generation Node.js and TypeScript ORM 
-Sendgrid - service for email sending
-Stripe - payment service
-AWS S3 - file storage
+ - Nest.js - enterprise-level Node.js framework
+ - Prisma - Next-generation Node.js and TypeScript ORM 
+ - Sendgrid - service for email sending
+ - Stripe - payment service
+ - AWS S3 - file storage
